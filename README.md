@@ -18,7 +18,7 @@ This project focuses on analyzing sales data to uncover valuable business insigh
 - Seaborn
 - Jupyter Notebook
 - SQL
-- Power BI (if applicable)
+- Power BI 
 
 # 📊 Sales Analysis Project
 
@@ -40,7 +40,7 @@ This project focuses on analyzing sales data to uncover valuable business insigh
 - Seaborn
 - Jupyter Notebook
 - SQL
-- Power BI (if applicable)
+- Power BI 
 - 
 ## 📊 Key Analysis Performed
 
@@ -113,18 +113,3 @@ Add screenshots of your dashboard or visualizations here.
 
 <img width="607" height="402" alt="image" src="https://github.com/user-attachments/assets/b239c148-612e-4f8c-a453-0bc43e769286" />
 
-
-## 🔮 Future Improvements
-- Sales forecasting using Machine Learning.
-- Interactive dashboard development.
-- Real-time sales monitoring.
-- Customer segmentation analysis.
-
-## 👨‍💻 Author
-
-**Harshit Rawal**
-
-- LinkedIn: www.linkedin.com/in/harshit-rawal-4065b4254
-- GitHub: https://github.com/Harsh798344
-
-## ⭐ If you found this project useful, please consider giving it a star!
