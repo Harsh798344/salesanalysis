@@ -111,6 +111,7 @@ Add screenshots of your dashboard or visualizations here.
 
 ## 📷 Dashboard Preview
 
+<img width="607" height="402" alt="image" src="https://github.com/user-attachments/assets/b239c148-612e-4f8c-a453-0bc43e769286" />
 
 
 ## 🔮 Future Improvements
